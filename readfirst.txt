@@ -1,0 +1,5 @@
+Codeigniter 3.0.6 with HMVC integrated.
+
+Sample : 
+http://localhost/garena_admin/index.php/home
+http://localhost/garena_admin/index.php/other
